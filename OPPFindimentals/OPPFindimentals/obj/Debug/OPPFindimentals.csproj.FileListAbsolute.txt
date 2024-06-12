@@ -1,0 +1,7 @@
+D:\c#\Asp.net_Web\OPPFindimentals\OPPFindimentals\bin\Debug\OPPFindimentals.exe.config
+D:\c#\Asp.net_Web\OPPFindimentals\OPPFindimentals\bin\Debug\OPPFindimentals.exe
+D:\c#\Asp.net_Web\OPPFindimentals\OPPFindimentals\bin\Debug\OPPFindimentals.pdb
+D:\c#\Asp.net_Web\OPPFindimentals\OPPFindimentals\obj\Debug\OPPFindimentals.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\OPPFindimentals\OPPFindimentals\obj\Debug\OPPFindimentals.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\OPPFindimentals\OPPFindimentals\obj\Debug\OPPFindimentals.exe
+D:\c#\Asp.net_Web\OPPFindimentals\OPPFindimentals\obj\Debug\OPPFindimentals.pdb

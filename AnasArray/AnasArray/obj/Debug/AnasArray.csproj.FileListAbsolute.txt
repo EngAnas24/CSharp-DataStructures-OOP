@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\AnasArray\AnasArray\bin\Debug\AnasArray.exe.config
+D:\c#\Asp.net_Web\AnasArray\AnasArray\bin\Debug\AnasArray.exe
+D:\c#\Asp.net_Web\AnasArray\AnasArray\bin\Debug\AnasArray.pdb
+D:\c#\Asp.net_Web\AnasArray\AnasArray\obj\Debug\AnasArray.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\AnasArray\AnasArray\obj\Debug\AnasArray.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\AnasArray\AnasArray\obj\Debug\AnasArray.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\AnasArray\AnasArray\obj\Debug\AnasArray.exe
+D:\c#\Asp.net_Web\AnasArray\AnasArray\obj\Debug\AnasArray.pdb

@@ -1,0 +1,14 @@
+D:\c#\Asp.net_Web\TestO\TestO\bin\Debug\net6.0\TestO.exe
+D:\c#\Asp.net_Web\TestO\TestO\bin\Debug\net6.0\TestO.deps.json
+D:\c#\Asp.net_Web\TestO\TestO\bin\Debug\net6.0\TestO.runtimeconfig.json
+D:\c#\Asp.net_Web\TestO\TestO\bin\Debug\net6.0\TestO.dll
+D:\c#\Asp.net_Web\TestO\TestO\bin\Debug\net6.0\TestO.pdb
+D:\c#\Asp.net_Web\TestO\TestO\obj\Debug\net6.0\TestO.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Asp.net_Web\TestO\TestO\obj\Debug\net6.0\TestO.AssemblyInfoInputs.cache
+D:\c#\Asp.net_Web\TestO\TestO\obj\Debug\net6.0\TestO.AssemblyInfo.cs
+D:\c#\Asp.net_Web\TestO\TestO\obj\Debug\net6.0\TestO.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\TestO\TestO\obj\Debug\net6.0\TestO.dll
+D:\c#\Asp.net_Web\TestO\TestO\obj\Debug\net6.0\refint\TestO.dll
+D:\c#\Asp.net_Web\TestO\TestO\obj\Debug\net6.0\TestO.pdb
+D:\c#\Asp.net_Web\TestO\TestO\obj\Debug\net6.0\TestO.genruntimeconfig.cache
+D:\c#\Asp.net_Web\TestO\TestO\obj\Debug\net6.0\ref\TestO.dll

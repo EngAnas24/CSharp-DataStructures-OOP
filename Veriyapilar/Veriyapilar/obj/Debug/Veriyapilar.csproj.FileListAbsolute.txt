@@ -1,0 +1,7 @@
+D:\c#\Asp.net_Web\Veriyapilar\Veriyapilar\bin\Debug\Veriyapilar.exe.config
+D:\c#\Asp.net_Web\Veriyapilar\Veriyapilar\bin\Debug\Veriyapilar.exe
+D:\c#\Asp.net_Web\Veriyapilar\Veriyapilar\bin\Debug\Veriyapilar.pdb
+D:\c#\Asp.net_Web\Veriyapilar\Veriyapilar\obj\Debug\Veriyapilar.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\Veriyapilar\Veriyapilar\obj\Debug\Veriyapilar.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\Veriyapilar\Veriyapilar\obj\Debug\Veriyapilar.exe
+D:\c#\Asp.net_Web\Veriyapilar\Veriyapilar\obj\Debug\Veriyapilar.pdb

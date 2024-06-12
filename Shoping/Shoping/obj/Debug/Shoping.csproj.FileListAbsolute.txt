@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\Shoping\Shoping\bin\Debug\Shoping.exe.config
+D:\c#\Asp.net_Web\Shoping\Shoping\bin\Debug\Shoping.exe
+D:\c#\Asp.net_Web\Shoping\Shoping\bin\Debug\Shoping.pdb
+D:\c#\Asp.net_Web\Shoping\Shoping\obj\Debug\Shoping.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\Shoping\Shoping\obj\Debug\Shoping.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\Shoping\Shoping\obj\Debug\Shoping.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\Shoping\Shoping\obj\Debug\Shoping.exe
+D:\c#\Asp.net_Web\Shoping\Shoping\obj\Debug\Shoping.pdb

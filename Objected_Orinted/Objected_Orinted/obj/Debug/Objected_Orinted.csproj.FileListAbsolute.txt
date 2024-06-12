@@ -1,0 +1,7 @@
+D:\c#\Asp.net_Web\Objected_Orinted\Objected_Orinted\bin\Debug\Objected_Orinted.exe.config
+D:\c#\Asp.net_Web\Objected_Orinted\Objected_Orinted\bin\Debug\Objected_Orinted.exe
+D:\c#\Asp.net_Web\Objected_Orinted\Objected_Orinted\bin\Debug\Objected_Orinted.pdb
+D:\c#\Asp.net_Web\Objected_Orinted\Objected_Orinted\obj\Debug\Objected_Orinted.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\Objected_Orinted\Objected_Orinted\obj\Debug\Objected_Orinted.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\Objected_Orinted\Objected_Orinted\obj\Debug\Objected_Orinted.exe
+D:\c#\Asp.net_Web\Objected_Orinted\Objected_Orinted\obj\Debug\Objected_Orinted.pdb

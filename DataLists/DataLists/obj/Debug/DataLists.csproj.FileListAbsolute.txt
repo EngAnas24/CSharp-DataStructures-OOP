@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\DataLists\DataLists\bin\Debug\DataLists.exe.config
+D:\c#\Asp.net_Web\DataLists\DataLists\bin\Debug\DataLists.exe
+D:\c#\Asp.net_Web\DataLists\DataLists\bin\Debug\DataLists.pdb
+D:\c#\Asp.net_Web\DataLists\DataLists\obj\Debug\DataLists.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\DataLists\DataLists\obj\Debug\DataLists.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\DataLists\DataLists\obj\Debug\DataLists.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\DataLists\DataLists\obj\Debug\DataLists.exe
+D:\c#\Asp.net_Web\DataLists\DataLists\obj\Debug\DataLists.pdb

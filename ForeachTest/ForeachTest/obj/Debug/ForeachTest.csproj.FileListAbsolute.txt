@@ -1,0 +1,7 @@
+D:\c#\Asp.net_Web\ForeachTest\ForeachTest\obj\Debug\ForeachTest.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\ForeachTest\ForeachTest\obj\Debug\ForeachTest.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\ForeachTest\ForeachTest\bin\Debug\ForeachTest.exe.config
+D:\c#\Asp.net_Web\ForeachTest\ForeachTest\bin\Debug\ForeachTest.exe
+D:\c#\Asp.net_Web\ForeachTest\ForeachTest\bin\Debug\ForeachTest.pdb
+D:\c#\Asp.net_Web\ForeachTest\ForeachTest\obj\Debug\ForeachTest.exe
+D:\c#\Asp.net_Web\ForeachTest\ForeachTest\obj\Debug\ForeachTest.pdb

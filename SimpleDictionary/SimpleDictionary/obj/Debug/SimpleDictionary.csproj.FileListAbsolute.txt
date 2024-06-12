@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\SimpleDictionary\SimpleDictionary\bin\Debug\SimpleDictionary.exe.config
+D:\c#\Asp.net_Web\SimpleDictionary\SimpleDictionary\bin\Debug\SimpleDictionary.exe
+D:\c#\Asp.net_Web\SimpleDictionary\SimpleDictionary\bin\Debug\SimpleDictionary.pdb
+D:\c#\Asp.net_Web\SimpleDictionary\SimpleDictionary\obj\Debug\SimpleDictionary.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\SimpleDictionary\SimpleDictionary\obj\Debug\SimpleDictionary.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\SimpleDictionary\SimpleDictionary\obj\Debug\SimpleDictionary.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\SimpleDictionary\SimpleDictionary\obj\Debug\SimpleDictionary.exe
+D:\c#\Asp.net_Web\SimpleDictionary\SimpleDictionary\obj\Debug\SimpleDictionary.pdb

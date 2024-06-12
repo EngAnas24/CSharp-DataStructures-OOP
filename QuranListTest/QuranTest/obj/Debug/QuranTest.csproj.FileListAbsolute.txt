@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\QuranTest\QuranTest\bin\Debug\QuranTest.exe.config
+D:\c#\Asp.net_Web\QuranTest\QuranTest\bin\Debug\QuranTest.exe
+D:\c#\Asp.net_Web\QuranTest\QuranTest\bin\Debug\QuranTest.pdb
+D:\c#\Asp.net_Web\QuranTest\QuranTest\obj\Debug\QuranTest.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\QuranTest\QuranTest\obj\Debug\QuranTest.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\QuranTest\QuranTest\obj\Debug\QuranTest.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\QuranTest\QuranTest\obj\Debug\QuranTest.exe
+D:\c#\Asp.net_Web\QuranTest\QuranTest\obj\Debug\QuranTest.pdb

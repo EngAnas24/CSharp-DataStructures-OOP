@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Asp.netMvc\\MobileAdvice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{059A2613-9EDE-4615-ACE2-6A86E7959039}|MobileAdvice\\MobileAdvice.csproj|d:\\c#\\asp.netmvc\\mobileadvice\\mobileadvice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059A2613-9EDE-4615-ACE2-6A86E7959039}|MobileAdvice\\MobileAdvice.csproj|solutionrelative:mobileadvice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059A2613-9EDE-4615-ACE2-6A86E7959039}|MobileAdvice\\MobileAdvice.csproj|D:\\c#\\Asp.netMvc\\MobileAdvice\\mobileadvice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059A2613-9EDE-4615-ACE2-6A86E7959039}|MobileAdvice\\MobileAdvice.csproj|solutionrelative:mobileadvice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.netMvc\\MobileAdvice\\MobileAdvice\\Class1.cs",
+              "RelativeDocumentMoniker": "MobileAdvice\\Class1.cs",
+              "ToolTip": "D:\\c#\\Asp.netMvc\\MobileAdvice\\MobileAdvice\\Class1.cs",
+              "RelativeToolTip": "MobileAdvice\\Class1.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:33:02.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.netMvc\\MobileAdvice\\MobileAdvice\\Program.cs",
+              "RelativeDocumentMoniker": "MobileAdvice\\Program.cs",
+              "ToolTip": "D:\\c#\\Asp.netMvc\\MobileAdvice\\MobileAdvice\\Program.cs",
+              "RelativeToolTip": "MobileAdvice\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:33:02.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

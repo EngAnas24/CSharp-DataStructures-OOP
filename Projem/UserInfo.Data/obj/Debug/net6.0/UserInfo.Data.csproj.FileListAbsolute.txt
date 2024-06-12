@@ -1,0 +1,15 @@
+D:\c#\Asp.net_Web\Projem\UserInfo.Data\bin\Debug\net6.0\UserInfo.Data.deps.json
+D:\c#\Asp.net_Web\Projem\UserInfo.Data\bin\Debug\net6.0\UserInfo.Data.dll
+D:\c#\Asp.net_Web\Projem\UserInfo.Data\bin\Debug\net6.0\UserInfo.Data.pdb
+D:\c#\Asp.net_Web\Projem\UserInfo.Data\bin\Debug\net6.0\Userinfo.core.dll
+D:\c#\Asp.net_Web\Projem\UserInfo.Data\bin\Debug\net6.0\Userinfo.core.pdb
+D:\c#\Asp.net_Web\Projem\UserInfo.Data\obj\Debug\net6.0\UserInfo.Data.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\Projem\UserInfo.Data\obj\Debug\net6.0\UserInfo.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Asp.net_Web\Projem\UserInfo.Data\obj\Debug\net6.0\UserInfo.Data.AssemblyInfoInputs.cache
+D:\c#\Asp.net_Web\Projem\UserInfo.Data\obj\Debug\net6.0\UserInfo.Data.AssemblyInfo.cs
+D:\c#\Asp.net_Web\Projem\UserInfo.Data\obj\Debug\net6.0\UserInfo.Data.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\Projem\UserInfo.Data\obj\Debug\net6.0\UserInfo.Data.csproj.CopyComplete
+D:\c#\Asp.net_Web\Projem\UserInfo.Data\obj\Debug\net6.0\UserInfo.Data.dll
+D:\c#\Asp.net_Web\Projem\UserInfo.Data\obj\Debug\net6.0\refint\UserInfo.Data.dll
+D:\c#\Asp.net_Web\Projem\UserInfo.Data\obj\Debug\net6.0\UserInfo.Data.pdb
+D:\c#\Asp.net_Web\Projem\UserInfo.Data\obj\Debug\net6.0\ref\UserInfo.Data.dll

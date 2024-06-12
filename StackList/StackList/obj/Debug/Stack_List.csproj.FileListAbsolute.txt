@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\StackList\StackList\bin\Debug\StackList.exe.config
+D:\c#\Asp.net_Web\StackList\StackList\bin\Debug\StackList.exe
+D:\c#\Asp.net_Web\StackList\StackList\bin\Debug\StackList.pdb
+D:\c#\Asp.net_Web\StackList\StackList\obj\Debug\Stack_List.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\StackList\StackList\obj\Debug\Stack_List.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\StackList\StackList\obj\Debug\Stack_List.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\StackList\StackList\obj\Debug\StackList.exe
+D:\c#\Asp.net_Web\StackList\StackList\obj\Debug\StackList.pdb

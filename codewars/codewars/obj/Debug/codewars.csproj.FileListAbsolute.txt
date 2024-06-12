@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\codewars\codewars\obj\Debug\codewars.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\codewars\codewars\obj\Debug\codewars.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\codewars\codewars\obj\Debug\codewars.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\codewars\codewars\bin\Debug\codewars.exe.config
+D:\c#\Asp.net_Web\codewars\codewars\bin\Debug\codewars.exe
+D:\c#\Asp.net_Web\codewars\codewars\bin\Debug\codewars.pdb
+D:\c#\Asp.net_Web\codewars\codewars\obj\Debug\codewars.exe
+D:\c#\Asp.net_Web\codewars\codewars\obj\Debug\codewars.pdb

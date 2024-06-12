@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\QueuTest\QueuTest\obj\Debug\QueuTest.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\QueuTest\QueuTest\obj\Debug\QueuTest.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\QueuTest\QueuTest\obj\Debug\QueuTest.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\QueuTest\QueuTest\bin\Debug\QueuTest.exe.config
+D:\c#\Asp.net_Web\QueuTest\QueuTest\bin\Debug\QueuTest.exe
+D:\c#\Asp.net_Web\QueuTest\QueuTest\bin\Debug\QueuTest.pdb
+D:\c#\Asp.net_Web\QueuTest\QueuTest\obj\Debug\QueuTest.exe
+D:\c#\Asp.net_Web\QueuTest\QueuTest\obj\Debug\QueuTest.pdb

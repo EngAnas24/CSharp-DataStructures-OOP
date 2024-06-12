@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\TestOOP\TestOOP\bin\Debug\TestOOP.exe.config
+D:\c#\Asp.net_Web\TestOOP\TestOOP\bin\Debug\TestOOP.exe
+D:\c#\Asp.net_Web\TestOOP\TestOOP\bin\Debug\TestOOP.pdb
+D:\c#\Asp.net_Web\TestOOP\TestOOP\obj\Debug\TestOOP.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\TestOOP\TestOOP\obj\Debug\TestOOP.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\TestOOP\TestOOP\obj\Debug\TestOOP.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\TestOOP\TestOOP\obj\Debug\TestOOP.exe
+D:\c#\Asp.net_Web\TestOOP\TestOOP\obj\Debug\TestOOP.pdb

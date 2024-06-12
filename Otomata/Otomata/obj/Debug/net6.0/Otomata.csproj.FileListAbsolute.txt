@@ -1,0 +1,14 @@
+D:\c#\Asp.net_Web\Otomata\Otomata\bin\Debug\net6.0\Otomata.exe
+D:\c#\Asp.net_Web\Otomata\Otomata\bin\Debug\net6.0\Otomata.deps.json
+D:\c#\Asp.net_Web\Otomata\Otomata\bin\Debug\net6.0\Otomata.runtimeconfig.json
+D:\c#\Asp.net_Web\Otomata\Otomata\bin\Debug\net6.0\Otomata.dll
+D:\c#\Asp.net_Web\Otomata\Otomata\bin\Debug\net6.0\Otomata.pdb
+D:\c#\Asp.net_Web\Otomata\Otomata\obj\Debug\net6.0\Otomata.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Asp.net_Web\Otomata\Otomata\obj\Debug\net6.0\Otomata.AssemblyInfoInputs.cache
+D:\c#\Asp.net_Web\Otomata\Otomata\obj\Debug\net6.0\Otomata.AssemblyInfo.cs
+D:\c#\Asp.net_Web\Otomata\Otomata\obj\Debug\net6.0\Otomata.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\Otomata\Otomata\obj\Debug\net6.0\Otomata.dll
+D:\c#\Asp.net_Web\Otomata\Otomata\obj\Debug\net6.0\refint\Otomata.dll
+D:\c#\Asp.net_Web\Otomata\Otomata\obj\Debug\net6.0\Otomata.pdb
+D:\c#\Asp.net_Web\Otomata\Otomata\obj\Debug\net6.0\Otomata.genruntimeconfig.cache
+D:\c#\Asp.net_Web\Otomata\Otomata\obj\Debug\net6.0\ref\Otomata.dll

@@ -1,0 +1,14 @@
+D:\c#\Asp.net_Web\CodeWarsExmples\CodeWarsExmples\obj\Debug\net6.0\CodeWarsExmples.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Asp.net_Web\CodeWarsExmples\CodeWarsExmples\obj\Debug\net6.0\CodeWarsExmples.AssemblyInfoInputs.cache
+D:\c#\Asp.net_Web\CodeWarsExmples\CodeWarsExmples\obj\Debug\net6.0\CodeWarsExmples.AssemblyInfo.cs
+D:\c#\Asp.net_Web\CodeWarsExmples\CodeWarsExmples\obj\Debug\net6.0\CodeWarsExmples.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\CodeWarsExmples\CodeWarsExmples\bin\Debug\net6.0\CodeWarsExmples.exe
+D:\c#\Asp.net_Web\CodeWarsExmples\CodeWarsExmples\bin\Debug\net6.0\CodeWarsExmples.deps.json
+D:\c#\Asp.net_Web\CodeWarsExmples\CodeWarsExmples\bin\Debug\net6.0\CodeWarsExmples.runtimeconfig.json
+D:\c#\Asp.net_Web\CodeWarsExmples\CodeWarsExmples\bin\Debug\net6.0\CodeWarsExmples.dll
+D:\c#\Asp.net_Web\CodeWarsExmples\CodeWarsExmples\bin\Debug\net6.0\CodeWarsExmples.pdb
+D:\c#\Asp.net_Web\CodeWarsExmples\CodeWarsExmples\obj\Debug\net6.0\CodeWarsExmples.dll
+D:\c#\Asp.net_Web\CodeWarsExmples\CodeWarsExmples\obj\Debug\net6.0\refint\CodeWarsExmples.dll
+D:\c#\Asp.net_Web\CodeWarsExmples\CodeWarsExmples\obj\Debug\net6.0\CodeWarsExmples.pdb
+D:\c#\Asp.net_Web\CodeWarsExmples\CodeWarsExmples\obj\Debug\net6.0\CodeWarsExmples.genruntimeconfig.cache
+D:\c#\Asp.net_Web\CodeWarsExmples\CodeWarsExmples\obj\Debug\net6.0\ref\CodeWarsExmples.dll

@@ -1,0 +1,12 @@
+D:\c#\Asp.net_Web\fisrtproject\firstproject.Core\bin\Debug\net6.0\firstproject.Core.deps.json
+D:\c#\Asp.net_Web\fisrtproject\firstproject.Core\bin\Debug\net6.0\firstproject.Core.dll
+D:\c#\Asp.net_Web\fisrtproject\firstproject.Core\bin\Debug\net6.0\firstproject.Core.pdb
+D:\c#\Asp.net_Web\fisrtproject\firstproject.Core\obj\Debug\net6.0\firstproject.Core.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\fisrtproject\firstproject.Core\obj\Debug\net6.0\firstproject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Asp.net_Web\fisrtproject\firstproject.Core\obj\Debug\net6.0\firstproject.Core.AssemblyInfoInputs.cache
+D:\c#\Asp.net_Web\fisrtproject\firstproject.Core\obj\Debug\net6.0\firstproject.Core.AssemblyInfo.cs
+D:\c#\Asp.net_Web\fisrtproject\firstproject.Core\obj\Debug\net6.0\firstproject.Core.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\fisrtproject\firstproject.Core\obj\Debug\net6.0\firstproject.Core.dll
+D:\c#\Asp.net_Web\fisrtproject\firstproject.Core\obj\Debug\net6.0\refint\firstproject.Core.dll
+D:\c#\Asp.net_Web\fisrtproject\firstproject.Core\obj\Debug\net6.0\firstproject.Core.pdb
+D:\c#\Asp.net_Web\fisrtproject\firstproject.Core\obj\Debug\net6.0\ref\firstproject.Core.dll

@@ -1,0 +1,14 @@
+D:\c#\Asp.net_Web\Questions\Questions\bin\Debug\net6.0\Questions.exe
+D:\c#\Asp.net_Web\Questions\Questions\bin\Debug\net6.0\Questions.deps.json
+D:\c#\Asp.net_Web\Questions\Questions\bin\Debug\net6.0\Questions.runtimeconfig.json
+D:\c#\Asp.net_Web\Questions\Questions\bin\Debug\net6.0\Questions.dll
+D:\c#\Asp.net_Web\Questions\Questions\bin\Debug\net6.0\Questions.pdb
+D:\c#\Asp.net_Web\Questions\Questions\obj\Debug\net6.0\Questions.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Asp.net_Web\Questions\Questions\obj\Debug\net6.0\Questions.AssemblyInfoInputs.cache
+D:\c#\Asp.net_Web\Questions\Questions\obj\Debug\net6.0\Questions.AssemblyInfo.cs
+D:\c#\Asp.net_Web\Questions\Questions\obj\Debug\net6.0\Questions.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\Questions\Questions\obj\Debug\net6.0\Questions.dll
+D:\c#\Asp.net_Web\Questions\Questions\obj\Debug\net6.0\refint\Questions.dll
+D:\c#\Asp.net_Web\Questions\Questions\obj\Debug\net6.0\Questions.pdb
+D:\c#\Asp.net_Web\Questions\Questions\obj\Debug\net6.0\Questions.genruntimeconfig.cache
+D:\c#\Asp.net_Web\Questions\Questions\obj\Debug\net6.0\ref\Questions.dll

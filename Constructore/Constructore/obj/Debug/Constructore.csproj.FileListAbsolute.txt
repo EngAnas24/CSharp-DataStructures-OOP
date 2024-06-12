@@ -1,0 +1,7 @@
+D:\c#\Asp.net_Web\Constructore\Constructore\bin\Debug\Constructore.exe.config
+D:\c#\Asp.net_Web\Constructore\Constructore\bin\Debug\Constructore.exe
+D:\c#\Asp.net_Web\Constructore\Constructore\bin\Debug\Constructore.pdb
+D:\c#\Asp.net_Web\Constructore\Constructore\obj\Debug\Constructore.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\Constructore\Constructore\obj\Debug\Constructore.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\Constructore\Constructore\obj\Debug\Constructore.exe
+D:\c#\Asp.net_Web\Constructore\Constructore\obj\Debug\Constructore.pdb

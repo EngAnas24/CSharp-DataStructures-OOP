@@ -1,0 +1,11 @@
+D:\c#\Asp.net_Web\LinQExample\SeedData\bin\Debug\net7.0\SeedData.deps.json
+D:\c#\Asp.net_Web\LinQExample\SeedData\bin\Debug\net7.0\SeedData.dll
+D:\c#\Asp.net_Web\LinQExample\SeedData\bin\Debug\net7.0\SeedData.pdb
+D:\c#\Asp.net_Web\LinQExample\SeedData\obj\Debug\net7.0\SeedData.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Asp.net_Web\LinQExample\SeedData\obj\Debug\net7.0\SeedData.AssemblyInfoInputs.cache
+D:\c#\Asp.net_Web\LinQExample\SeedData\obj\Debug\net7.0\SeedData.AssemblyInfo.cs
+D:\c#\Asp.net_Web\LinQExample\SeedData\obj\Debug\net7.0\SeedData.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\LinQExample\SeedData\obj\Debug\net7.0\SeedData.dll
+D:\c#\Asp.net_Web\LinQExample\SeedData\obj\Debug\net7.0\refint\SeedData.dll
+D:\c#\Asp.net_Web\LinQExample\SeedData\obj\Debug\net7.0\SeedData.pdb
+D:\c#\Asp.net_Web\LinQExample\SeedData\obj\Debug\net7.0\ref\SeedData.dll

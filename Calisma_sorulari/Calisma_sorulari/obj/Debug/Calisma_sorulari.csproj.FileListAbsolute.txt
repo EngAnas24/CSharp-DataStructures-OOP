@@ -1,0 +1,7 @@
+D:\c#\Asp.net_Web\Calisma_sorulari\Calisma_sorulari\bin\Debug\Calisma_sorulari.exe.config
+D:\c#\Asp.net_Web\Calisma_sorulari\Calisma_sorulari\bin\Debug\Calisma_sorulari.exe
+D:\c#\Asp.net_Web\Calisma_sorulari\Calisma_sorulari\bin\Debug\Calisma_sorulari.pdb
+D:\c#\Asp.net_Web\Calisma_sorulari\Calisma_sorulari\obj\Debug\Calisma_sorulari.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\Calisma_sorulari\Calisma_sorulari\obj\Debug\Calisma_sorulari.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\Calisma_sorulari\Calisma_sorulari\obj\Debug\Calisma_sorulari.exe
+D:\c#\Asp.net_Web\Calisma_sorulari\Calisma_sorulari\obj\Debug\Calisma_sorulari.pdb

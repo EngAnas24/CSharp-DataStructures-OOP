@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Asp.netMvc\\GeometricForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E6CF6A-3DC8-406A-A415-A4527EA0CD51}|GeometricForms\\GeometricForms.csproj|d:\\c#\\asp.netmvc\\geometricforms\\geometricforms\\rectangul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E6CF6A-3DC8-406A-A415-A4527EA0CD51}|GeometricForms\\GeometricForms.csproj|solutionrelative:geometricforms\\rectangul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E6CF6A-3DC8-406A-A415-A4527EA0CD51}|GeometricForms\\GeometricForms.csproj|D:\\c#\\Asp.netMvc\\GeometricForms\\geometricforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E6CF6A-3DC8-406A-A415-A4527EA0CD51}|GeometricForms\\GeometricForms.csproj|solutionrelative:geometricforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E6CF6A-3DC8-406A-A415-A4527EA0CD51}|GeometricForms\\GeometricForms.csproj|D:\\c#\\Asp.netMvc\\GeometricForms\\geometricforms\\geometric\u0027sformdad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E6CF6A-3DC8-406A-A415-A4527EA0CD51}|GeometricForms\\GeometricForms.csproj|solutionrelative:geometricforms\\geometric\u0027sformdad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E6CF6A-3DC8-406A-A415-A4527EA0CD51}|GeometricForms\\GeometricForms.csproj|D:\\c#\\Asp.netMvc\\GeometricForms\\geometricforms\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E6CF6A-3DC8-406A-A415-A4527EA0CD51}|GeometricForms\\GeometricForms.csproj|solutionrelative:geometricforms\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Geometric\u0027sFormDad.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.netMvc\\GeometricForms\\GeometricForms\\Geometric\u0027sFormDad.cs",
+              "RelativeDocumentMoniker": "GeometricForms\\Geometric\u0027sFormDad.cs",
+              "ToolTip": "D:\\c#\\Asp.netMvc\\GeometricForms\\GeometricForms\\Geometric\u0027sFormDad.cs",
+              "RelativeToolTip": "GeometricForms\\Geometric\u0027sFormDad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:37:52.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangul.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.netMvc\\GeometricForms\\GeometricForms\\Rectangul.cs",
+              "RelativeDocumentMoniker": "GeometricForms\\Rectangul.cs",
+              "ToolTip": "D:\\c#\\Asp.netMvc\\GeometricForms\\GeometricForms\\Rectangul.cs",
+              "RelativeToolTip": "GeometricForms\\Rectangul.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:37:52.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CIrcle.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.netMvc\\GeometricForms\\GeometricForms\\CIrcle.cs",
+              "RelativeDocumentMoniker": "GeometricForms\\CIrcle.cs",
+              "ToolTip": "D:\\c#\\Asp.netMvc\\GeometricForms\\GeometricForms\\CIrcle.cs",
+              "RelativeToolTip": "GeometricForms\\CIrcle.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:37:52.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\Asp.netMvc\\GeometricForms\\GeometricForms\\Program.cs",
+              "RelativeDocumentMoniker": "GeometricForms\\Program.cs",
+              "ToolTip": "D:\\c#\\Asp.netMvc\\GeometricForms\\GeometricForms\\Program.cs",
+              "RelativeToolTip": "GeometricForms\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwBAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:37:52.671Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

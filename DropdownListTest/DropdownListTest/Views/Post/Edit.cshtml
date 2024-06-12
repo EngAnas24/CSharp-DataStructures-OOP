@@ -1,0 +1,47 @@
+﻿@model DropdownListTest.Models.AuthorPostView
+@inject DropdownListTest.Data.IDatahelper<DropdownListTest.Models.Author> authordata
+@inject DropdownListTest.Data.IDatahelper<DropdownListTest.Models.Book> bookdata
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>AuthorPost</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="PostCategory" class="control-label"></label>
+                <select asp-for="PostCategory" asp-items="new SelectList(bookdata.GetTables().Select(x=>x.Title))" class="form-control"></select>
+                <span asp-validation-for="PostCategory" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PostAuthor" class="control-label"></label>
+                <select asp-for="PostAuthor" asp-items="new SelectList(authordata.GetTables().Select(x=>x.Name))" class="form-control"></select>
+                <span asp-validation-for="PostAuthor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PostImageUrl" class="control-label"></label>
+                <input asp-for="PostImageUrl" type="file" class="form-control" />
+                <span asp-validation-for="PostImageUrl" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,12 @@
+D:\c#\Asp.net_Web\Projem\Userinfo.core\bin\Debug\net6.0\Userinfo.core.deps.json
+D:\c#\Asp.net_Web\Projem\Userinfo.core\bin\Debug\net6.0\Userinfo.core.dll
+D:\c#\Asp.net_Web\Projem\Userinfo.core\bin\Debug\net6.0\Userinfo.core.pdb
+D:\c#\Asp.net_Web\Projem\Userinfo.core\obj\Debug\net6.0\Userinfo.core.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\Projem\Userinfo.core\obj\Debug\net6.0\Userinfo.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Asp.net_Web\Projem\Userinfo.core\obj\Debug\net6.0\Userinfo.core.AssemblyInfoInputs.cache
+D:\c#\Asp.net_Web\Projem\Userinfo.core\obj\Debug\net6.0\Userinfo.core.AssemblyInfo.cs
+D:\c#\Asp.net_Web\Projem\Userinfo.core\obj\Debug\net6.0\Userinfo.core.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\Projem\Userinfo.core\obj\Debug\net6.0\Userinfo.core.dll
+D:\c#\Asp.net_Web\Projem\Userinfo.core\obj\Debug\net6.0\refint\Userinfo.core.dll
+D:\c#\Asp.net_Web\Projem\Userinfo.core\obj\Debug\net6.0\Userinfo.core.pdb
+D:\c#\Asp.net_Web\Projem\Userinfo.core\obj\Debug\net6.0\ref\Userinfo.core.dll

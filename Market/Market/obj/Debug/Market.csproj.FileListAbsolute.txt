@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\Market\Market\obj\Debug\Market.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\Market\Market\obj\Debug\Market.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\Market\Market\bin\Debug\Market.exe.config
+D:\c#\Asp.net_Web\Market\Market\bin\Debug\Market.exe
+D:\c#\Asp.net_Web\Market\Market\bin\Debug\Market.pdb
+D:\c#\Asp.net_Web\Market\Market\obj\Debug\Market.exe
+D:\c#\Asp.net_Web\Market\Market\obj\Debug\Market.pdb

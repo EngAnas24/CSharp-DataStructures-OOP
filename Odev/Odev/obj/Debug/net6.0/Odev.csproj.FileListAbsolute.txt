@@ -1,0 +1,14 @@
+D:\c#\Asp.net_Web\Odev\Odev\bin\Debug\net6.0\Odev.exe
+D:\c#\Asp.net_Web\Odev\Odev\bin\Debug\net6.0\Odev.deps.json
+D:\c#\Asp.net_Web\Odev\Odev\bin\Debug\net6.0\Odev.runtimeconfig.json
+D:\c#\Asp.net_Web\Odev\Odev\bin\Debug\net6.0\Odev.dll
+D:\c#\Asp.net_Web\Odev\Odev\bin\Debug\net6.0\Odev.pdb
+D:\c#\Asp.net_Web\Odev\Odev\obj\Debug\net6.0\Odev.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Asp.net_Web\Odev\Odev\obj\Debug\net6.0\Odev.AssemblyInfoInputs.cache
+D:\c#\Asp.net_Web\Odev\Odev\obj\Debug\net6.0\Odev.AssemblyInfo.cs
+D:\c#\Asp.net_Web\Odev\Odev\obj\Debug\net6.0\Odev.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\Odev\Odev\obj\Debug\net6.0\Odev.dll
+D:\c#\Asp.net_Web\Odev\Odev\obj\Debug\net6.0\refint\Odev.dll
+D:\c#\Asp.net_Web\Odev\Odev\obj\Debug\net6.0\Odev.pdb
+D:\c#\Asp.net_Web\Odev\Odev\obj\Debug\net6.0\Odev.genruntimeconfig.cache
+D:\c#\Asp.net_Web\Odev\Odev\obj\Debug\net6.0\ref\Odev.dll

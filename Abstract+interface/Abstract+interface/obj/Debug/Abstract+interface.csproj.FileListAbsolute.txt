@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\Abstract+interface\Abstract+interface\bin\Debug\Abstract+interface.exe.config
+D:\c#\Asp.net_Web\Abstract+interface\Abstract+interface\bin\Debug\Abstract+interface.exe
+D:\c#\Asp.net_Web\Abstract+interface\Abstract+interface\bin\Debug\Abstract+interface.pdb
+D:\c#\Asp.net_Web\Abstract+interface\Abstract+interface\obj\Debug\Abstract+interface.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\Abstract+interface\Abstract+interface\obj\Debug\Abstract+interface.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\Abstract+interface\Abstract+interface\obj\Debug\Abstract+interface.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\Abstract+interface\Abstract+interface\obj\Debug\Abstract+interface.exe
+D:\c#\Asp.net_Web\Abstract+interface\Abstract+interface\obj\Debug\Abstract+interface.pdb

@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\FileReader\FileReader\bin\Debug\FileReader.exe.config
+D:\c#\Asp.net_Web\FileReader\FileReader\bin\Debug\FileReader.exe
+D:\c#\Asp.net_Web\FileReader\FileReader\bin\Debug\FileReader.pdb
+D:\c#\Asp.net_Web\FileReader\FileReader\obj\Debug\FileReader.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\FileReader\FileReader\obj\Debug\FileReader.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\FileReader\FileReader\obj\Debug\FileReader.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\FileReader\FileReader\obj\Debug\FileReader.exe
+D:\c#\Asp.net_Web\FileReader\FileReader\obj\Debug\FileReader.pdb

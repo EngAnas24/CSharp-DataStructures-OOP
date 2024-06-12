@@ -1,0 +1,7 @@
+D:\c#\Asp.net_Web\sortsmethods\sortsmethods\bin\Debug\sortsmethods.exe.config
+D:\c#\Asp.net_Web\sortsmethods\sortsmethods\bin\Debug\sortsmethods.exe
+D:\c#\Asp.net_Web\sortsmethods\sortsmethods\bin\Debug\sortsmethods.pdb
+D:\c#\Asp.net_Web\sortsmethods\sortsmethods\obj\Debug\sortsmethods.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\sortsmethods\sortsmethods\obj\Debug\sortsmethods.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\sortsmethods\sortsmethods\obj\Debug\sortsmethods.exe
+D:\c#\Asp.net_Web\sortsmethods\sortsmethods\obj\Debug\sortsmethods.pdb

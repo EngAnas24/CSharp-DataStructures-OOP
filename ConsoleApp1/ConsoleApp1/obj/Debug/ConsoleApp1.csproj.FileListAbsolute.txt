@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\c#\Asp.net_Web\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\c#\Asp.net_Web\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\c#\Asp.net_Web\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\c#\Asp.net_Web\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

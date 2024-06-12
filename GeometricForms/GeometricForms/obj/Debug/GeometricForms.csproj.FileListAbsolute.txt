@@ -1,0 +1,15 @@
+D:\c#\Asp.net_Web\GeometricForms\GeometricForms\bin\Debug\GeometricForms.exe.config
+D:\c#\Asp.net_Web\GeometricForms\GeometricForms\bin\Debug\GeometricForms.exe
+D:\c#\Asp.net_Web\GeometricForms\GeometricForms\bin\Debug\GeometricForms.pdb
+D:\c#\Asp.net_Web\GeometricForms\GeometricForms\obj\Debug\GeometricForms.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\GeometricForms\GeometricForms\obj\Debug\GeometricForms.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\GeometricForms\GeometricForms\obj\Debug\GeometricForms.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\GeometricForms\GeometricForms\obj\Debug\GeometricForms.exe
+D:\c#\Asp.net_Web\GeometricForms\GeometricForms\obj\Debug\GeometricForms.pdb
+D:\c#\Asp.netMvc\GeometricForms\GeometricForms\bin\Debug\GeometricForms.exe.config
+D:\c#\Asp.netMvc\GeometricForms\GeometricForms\bin\Debug\GeometricForms.exe
+D:\c#\Asp.netMvc\GeometricForms\GeometricForms\bin\Debug\GeometricForms.pdb
+D:\c#\Asp.netMvc\GeometricForms\GeometricForms\obj\Debug\GeometricForms.csproj.AssemblyReference.cache
+D:\c#\Asp.netMvc\GeometricForms\GeometricForms\obj\Debug\GeometricForms.csproj.CoreCompileInputs.cache
+D:\c#\Asp.netMvc\GeometricForms\GeometricForms\obj\Debug\GeometricForms.exe
+D:\c#\Asp.netMvc\GeometricForms\GeometricForms\obj\Debug\GeometricForms.pdb

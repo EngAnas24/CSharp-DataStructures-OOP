@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\Qura'an\Qura'an\obj\Debug\Qura'an.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\Qura'an\Qura'an\obj\Debug\Qura'an.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\Qura'an\Qura'an\obj\Debug\Qura'an.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\Qura'an\Qura'an\bin\Debug\Qura'an.exe.config
+D:\c#\Asp.net_Web\Qura'an\Qura'an\bin\Debug\Qura'an.exe
+D:\c#\Asp.net_Web\Qura'an\Qura'an\bin\Debug\Qura'an.pdb
+D:\c#\Asp.net_Web\Qura'an\Qura'an\obj\Debug\Qura'an.exe
+D:\c#\Asp.net_Web\Qura'an\Qura'an\obj\Debug\Qura'an.pdb

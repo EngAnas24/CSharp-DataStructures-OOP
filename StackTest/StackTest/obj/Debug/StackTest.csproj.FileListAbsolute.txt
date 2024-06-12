@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\StackTest\StackTest\bin\Debug\StackTest.exe.config
+D:\c#\Asp.net_Web\StackTest\StackTest\bin\Debug\StackTest.exe
+D:\c#\Asp.net_Web\StackTest\StackTest\bin\Debug\StackTest.pdb
+D:\c#\Asp.net_Web\StackTest\StackTest\obj\Debug\StackTest.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\StackTest\StackTest\obj\Debug\StackTest.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\StackTest\StackTest\obj\Debug\StackTest.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\StackTest\StackTest\obj\Debug\StackTest.exe
+D:\c#\Asp.net_Web\StackTest\StackTest\obj\Debug\StackTest.pdb

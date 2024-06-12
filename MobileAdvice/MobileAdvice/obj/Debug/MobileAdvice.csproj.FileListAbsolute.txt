@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\MobileAdvice\MobileAdvice\obj\Debug\MobileAdvice.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\MobileAdvice\MobileAdvice\obj\Debug\MobileAdvice.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\MobileAdvice\MobileAdvice\obj\Debug\MobileAdvice.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\MobileAdvice\MobileAdvice\bin\Debug\MobileAdvice.exe.config
+D:\c#\Asp.net_Web\MobileAdvice\MobileAdvice\bin\Debug\MobileAdvice.exe
+D:\c#\Asp.net_Web\MobileAdvice\MobileAdvice\bin\Debug\MobileAdvice.pdb
+D:\c#\Asp.net_Web\MobileAdvice\MobileAdvice\obj\Debug\MobileAdvice.exe
+D:\c#\Asp.net_Web\MobileAdvice\MobileAdvice\obj\Debug\MobileAdvice.pdb

@@ -1,0 +1,8 @@
+D:\c#\Asp.net_Web\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+D:\c#\Asp.net_Web\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+D:\c#\Asp.net_Web\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+D:\c#\Asp.net_Web\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.AssemblyReference.cache
+D:\c#\Asp.net_Web\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.SuggestedBindingRedirects.cache
+D:\c#\Asp.net_Web\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\c#\Asp.net_Web\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+D:\c#\Asp.net_Web\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
